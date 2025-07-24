@@ -1,0 +1,9 @@
+bin/
+obj/
+.idea/
+.idea_modules/
+*.sln.iml
+.idea/.idea.ICache/
+.idea/.idea.Shelf/
+.idea/.idea.Misc.xml
+.idea/.idea.workspace.xml
