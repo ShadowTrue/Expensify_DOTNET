@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expensify.NET.Api", "Expensify.NET.Api\Expensify.NET.Api.csproj", "{C3892EDC-F3A9-4B1F-9C55-32278215167D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expensify.NET.Api", "Expensify.NET.Api\Expensify.NET.Api.csproj", "{C49AEBC7-2A3F-4CE8-9A8E-6062C0CFB452}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C3892EDC-F3A9-4B1F-9C55-32278215167D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3892EDC-F3A9-4B1F-9C55-32278215167D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3892EDC-F3A9-4B1F-9C55-32278215167D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3892EDC-F3A9-4B1F-9C55-32278215167D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C49AEBC7-2A3F-4CE8-9A8E-6062C0CFB452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49AEBC7-2A3F-4CE8-9A8E-6062C0CFB452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49AEBC7-2A3F-4CE8-9A8E-6062C0CFB452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49AEBC7-2A3F-4CE8-9A8E-6062C0CFB452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
